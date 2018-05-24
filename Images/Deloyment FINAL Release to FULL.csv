@@ -1,0 +1,40 @@
+Issue Type,Issue key,Issue id,Sprint,Custom field (Epic Link),Assignee,Custom field (Story Points),Status,Fix Version/s,Fix Version/s,Priority,Created,Labels,Labels,Labels,Labels,Reporter,Summary,Resolution
+Improvement,GFMFI-506,86677,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Critical,2017-11-09 13:05,,,,,fmachado,Radius Search For Inactive and Non-Compliant Vendors,Done
+Improvement,GFMFI-530,87200,GFMFI GFM Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Critical,2017-11-18 12:31,,,,,danielle,invoice drafted to closed status,Done
+Bug,GFMFI-512,86874,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Critical,2017-11-14 9:17,,,,,dpeterson,Proposal Creation Screen does not add Destination Work Order.,Done
+Bug,GFMFI-524,87183,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Critical,2017-11-17 14:25,,,,,danielle,quotes issue,Done
+Bug,GFMFI-511,86867,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Critical,2017-11-14 6:58,,,,,Laura.Torres,CASE 7292 SA 0463,Done
+Story,GFMFI-230,82201,GFMFI GFM Sprint 3,GFMFI-225,fjamal,6,Closed,FINAL Release to FULL,,Critical,2017-09-01 15:09,Custom_Dev,M-18_Change_Order/RFP/Proposals,,,fjamal,Proposal Line Item Screen: Field Mapping,Done
+Bug,GFMFI-501,86546,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Critical,2017-11-08 8:29,M-17_Line_Item_Editor,,,,danielle,WOLIE Client Tax,Done
+Bug,GFMFI-528,87198,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-18 12:20,,,,,danielle,total vendor invoice and client inv,Done
+Bug,GFMFI-546,88170,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-29 13:52,,,,,Laura.Torres,WT For For Follow Up on Vendor Pricing,Done
+Story,GFMFI-174,81794,GFMFI Traction Sprint 2,GFMFI-24,fjamal,10,Closed,FINAL Release to FULL,,Major,2017-08-29 8:26,Custom_Dev,DeclarativeWork,M-14_Invoice/Payment_Preparation,ToDo,fjamal,Custom Button: Vendor Credit,Done
+Bug,GFMFI-541,87457,GFMFI GFM Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-22 6:46,,,,,Laura.Torres,Invalid Data :Error Message When Creating a Work Order with Pricebooks,Done
+Bug,GFMFI-534,87309,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-20 12:25,,,,,Laura.Torres,Error Message When Creating a Work Order,Done
+Bug,GFMFI-542,87458,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-22 7:57,,,,,Laura.Torres,Unable to Request for Margin Approval,Done
+Bug,GFMFI-500,86481,GFMFI GFM Sprint 2,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-07 16:24,M-8_Work_Requests,,,,cturner,Work Order Trigger for copying Resources Preferences is operating on the wrong Record Type,Done
+Story,GFMFI-367,83661,GFMFI Traction Sprint 3,GFMFI-11,fjamal,,Closed,FINAL Release to FULL,,Major,2017-09-25 9:06,DeclarativeWork,,,,sdoucette,Quote Line Items: Stamp Currency on Quote Line Item,Done
+Improvement,GFMFI-526,87196,GFMFI GFM Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-18 12:06,,,,,danielle,work order completion,Done
+Story,GFMFI-90,81685,GFMFI GFM Sprint 3,GFMFI-6,fjamal,,Closed,FINAL Release to FULL,,Major,2017-08-29 7:21,DeclarativeWork,M-15_Task_Management,,,fjamal,Work Task: Custom Fields,Done
+Improvement,GFMFI-519,87110,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-16 12:27,,,,,dpeterson,Convert Custom Buttons on side of Work Order to be clicked from a Quick Action,Done
+Bug,GFMFI-509,86791,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-10 9:36,,,,,Laura.Torres,UAT Test Script # 11 WT Issues,Done
+Bug,GFMFI-536,87357,GFMFI GFM Sprint 3,,Brian.Diaz,,Closed,FINAL Release to FULL,,Major,2017-11-20 15:17,,,,,Laura.Torres,Duplicate PO Check Box,Done
+Story,GFMFI-276,82417,GFMFI GFM Sprint 3,GFMFI-249,fjamal,,Closed,FINAL Release to FULL,,Major,2017-09-06 8:01,GFM,M-5_Base_Setup,,,fjamal,FSL Detail Object Setup - Work Orders,Done
+Story,GFMFI-344,83447,GFMFI GFM Sprint 3,GFMFI-18,Brian.Diaz,,Closed,FINAL Release to FULL,,Major,2017-09-21 12:44,GFM,M-3_Client_Management,,,fjamal,Location - Malls,Done
+Improvement,GFMFI-521,87173,GFMFI GFM Sprint 3,,fjamal,,Closed,FINAL Release to FULL,Sprint 3 Hot Fix Release,Major,2017-11-17 13:16,,,,,danielle,client quote,Done
+Bug,GFMFI-540,87438,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-21 14:43,,,,,dpeterson,Clone button on Quote does not copy over all values,Done
+Story,GFMFI-443,85596,GFMFI GFM Sprint 3,GFMFI-9,fjamal,,Closed,FINAL Release to FULL,,Major,2017-10-25 15:42,,,,,ashariff,Case status Invoice drafted rules,Done
+Improvement,GFMFI-544,88006,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-28 10:52,,,,,mhui,WOLI - Validation Rule to prevent 0 for Client Qty or Vendor Qty,Done
+Story,GFMFI-378,84288,GFMFI Traction Sprint 2,GFMFI-3,fjamal,,Closed,FINAL Release to FULL,,Major,2017-10-03 15:39,,,,,ashariff,Custom fields to be created on Work Order,Done
+Bug,GFMFI-497,86443,GFMFI Traction Sprint 2,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-07 12:37,M-17_Line_Item_Editor,,,,cturner,WOLI to Proforma roll-ups not recalculating on WOLI deletion,Done
+Story,GFMFI-418,85342,GFMFI GFM Sprint 2,GFMFI-9,fjamal,,Closed,FINAL Release to FULL,,Major,2017-10-20 8:00,,,,,ashariff,Stamp Suggested Margin on Case,Done
+Bug,GFMFI-483,86273,GFMFI Traction Sprint 2,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-06 9:51,,,,,danielle,client subtotal bug on work order and case rollup,Done
+Bug,GFMFI-522,87177,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-11-17 13:31,,,,,danielle,change order /rfp editor,Done
+Story,GFMFI-170,81790,GFMFI GFM Sprint 3,GFMFI-24,fjamal,,Closed,FINAL Release to FULL,,Major,2017-08-29 8:24,DeclarativeWork,M-14_Invoice/Payment_Preparation,,,fjamal,Vendor Invoice: Page Layout Creation,Done
+Story,GFMFI-362,83467,GFMFI GFM Sprint 3,GFMFI-24,fjamal,,Closed,FINAL Release to FULL,,Major,2017-09-21 12:59,GFM,M-14_Invoice/Payment_Preparation,,,fjamal,Proforma - Service channel template - blank billing - summarized,Done
+Story,GFMFI-448,85644,GFMFI Traction Sprint 3,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-10-26 10:57,GFM,,,,fjamal,Email Alert Triggers,Done
+Story,GFMFI-86,81681,GFMFI Traction Sprint 3,GFMFI-5,fjamal,9,Closed,FINAL Release to FULL,,Major,2017-08-29 7:18,Custom_Dev,M-14_Invoice/Payment_Preparation,,,fjamal,APEX Triggers: Vendor Invoice Rollup,Done
+Story,GFMFI-82,81677,GFMFI Traction Sprint 1,GFMFI-5,fjamal,,Closed,FINAL Release to FULL,,Major,2017-08-29 7:15,DeclarativeWork,M-17_Line_Item_Editor,,,fjamal,Work Order Line Items: Custom Fields,Done
+Story,GFMFI-180,81801,GFMFI Traction Sprint 3,GFMFI-25,fjamal,,Closed,FINAL Release to FULL,,Major,2017-08-29 8:30,Custom_Dev,M-25_KPI,,,fjamal,OST Logger,Done
+Bug,GFMFI-461,85856,GFMFI Traction Sprint 2,,fjamal,,Closed,FINAL Release to FULL,,Major,2017-10-30 14:56,,,,,danielle,Users able to set invalid status values on incomplete and/or incorrect Proforma records (Vendor Invoice) ,Done
+Bug,GFMFI-505,86631,GFMFI GFM Sprint 3,,,,Closed,FINAL Release to FULL,,Minor,2017-11-09 10:41,,,,,Laura.Torres,UAT Test Script #7 SC Priority to SF,Won't Do
